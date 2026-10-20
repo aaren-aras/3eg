@@ -8,9 +8,9 @@ So I borrowed an **[OpenBCI Ultracortex Mark IV](https://docs.openbci.com/AddOns
 1. To start with, I'll study how different genres and styles of music (varying rhythms, melody, harmony, dynamics, timbre, texture, and form) affect the brain, and
 visualize this information with a GUI.
 
-2. From there, I'll do some signal processing and filtering to map EEG waves to sound waves, and maybe feed that output to a synthesizer preset in FL Studio or Ableton. These waves could be sent as MIDI CC messages
+2. From there, I'll do some signal processing and filtering to map EEG waves to sound waves, and maybe feed that output to a synthesizer preset in FL Studio or Ableton. These waves could be sent as MIDI CC messages.
 
-3. Make my own, tailored VST3 synthesizer plugin designed around my brain waves with [JUCE](https://juce.com/)? Too ambitious? Probably.
+3. Make my own VST3 synthesizer plugin tailored around my brain waves with [JUCE](https://juce.com/)? Too ambitious? Probably.
 
 ### Setup
 
